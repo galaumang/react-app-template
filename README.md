@@ -1,7 +1,12 @@
 # React App Template
 
 
-npx create-react-app react-app-template --template typescript
+## Steps involved to create the template
 
-clean up unwanted files and refactor index.html and app.tsx
+**Step 1:** Create react application using `create-react-app` command 
+```
+npx create-react-app react-app-template --template typescript
+```
+**Step 2:** Remove unwanted files and refactor the `public/index.htm` and `src/App.tsx`
+
 
